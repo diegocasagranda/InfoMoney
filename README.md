@@ -8,4 +8,4 @@ sudo apt install bc jq curl locales-all
 ´´´
 
 
-![screenshot](screen3.png)
+![screenshot](screen4.png)
